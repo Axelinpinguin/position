@@ -1,0 +1,14 @@
+.gorro{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 100px;
+    
+}
+.contenedor{
+    display: flex;
+}
+.gatito{
+    position: relative;
+    top: 250px;
+}
